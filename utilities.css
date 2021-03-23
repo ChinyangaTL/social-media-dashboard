@@ -1,0 +1,38 @@
+.container {
+    max-height: 100vh;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.flex-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.card {
+    width: 250px;
+    display: flex;
+    /* margin: 1rem; */
+    border-radius: 10px;
+}
+
+.card.card-primary {
+    height: 200px;
+    padding: 1rem 1rem;
+    flex-direction: column;
+}
+
+.card.card-secondary {
+    
+    height: 100px;
+    padding: 1rem 1rem;
+}
