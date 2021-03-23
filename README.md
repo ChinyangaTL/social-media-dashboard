@@ -49,5 +49,4 @@ Users should be able to:
 
 - Website - [ChinyangaTL - Github](https://www.github/ChinyangaTL.com)
 - Frontend Mentor - [@beyonce-beytwice](https://www.frontendmentor.io/profile/beyonce-beytwice)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
