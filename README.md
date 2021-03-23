@@ -26,7 +26,7 @@ Users should be able to:
 
 ![](./screenshot-desktop-darkmode.png)
 ![](./screenshot-desktop-lightmode.png)
-![](./screenshot-mobile-desktop-darkmode.png)
+![](./screenshot-mobile-darkmode.png)
 ![](./screenshot-mobile-lightmode.png)
 
 ### Links
