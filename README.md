@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.github/ChinyangaTL.com](https://your-solution-url.com)
-- Live Site URL: [https://www.chinyangatl/githubio/social-media-dashboard.com](https://www.chinyangatl/githubio/social-media-dashboard.com)
+- Solution URL: [https://github.com/ChinyangaTL/social-media-dashboardhttps://github.com/ChinyangaTL/social-media-dashboard)
+- Live Site URL: [https://www.chinyangatl/githubio/social-media-dashboard](https://www.chinyangatl/githubio/social-media-dashboard)
 
 ## My process
 
@@ -47,6 +47,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [ChinyangaTL - Github](https://www.github/ChinyangaTL.com)
+- Website - [ChinyangaTL - Github](https://www.github.com/ChinyangaTL)
 - Frontend Mentor - [@beyonce-beytwice](https://www.frontendmentor.io/profile/beyonce-beytwice)
 
